@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.738944, 16.652500]
+      },
+      "properties": {
+        "name": "Quần đảo Hoàng Sa",
+        "name:latin": "Quần đảo Hoàng Sa",
+        "name:vi": "Quần đảo Hoàng Sa",
+        "place": "archipelago",
+        "admin_level": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.827639, 10.719333]
+      },
+      "properties": {
+        "name": "Quần đảo Trường Sa",
+        "name:latin": "Quần đảo Trường Sa",
+        "name:vi": "Quần đảo Trường Sa",
+        "place": "archipelago",
+        "admin_level": "4"
+      }
+    }
+  ]
+}
